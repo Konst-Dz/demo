@@ -1,3 +1,5 @@
 new.txt
 123
 !!!
+war3
+test
